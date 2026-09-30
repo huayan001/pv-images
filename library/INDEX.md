@@ -11,7 +11,6 @@
 | 5 | 光伏电站.jpeg | 005-pv-plant.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/005-pv-plant.jpg | 屋顶光伏电站阵列实景 | 无 |  |
 | 6 | 光伏电站业务开发流程.jpeg | 006-distributed-pv-dev-process.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/006-distributed-pv-dev-process.jpg | 分布式光伏项目开发流程（长图） | 无 |  |
 | 7 | 光伏车棚.jpg | 007-pv-carport.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/007-pv-carport.jpg | 光伏车棚航拍 | 无 |  |
-| 8 | 地面电站开发流程.jpeg | 008-ground-pv-dev-process.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/008-ground-pv-dev-process.jpg | 地面光伏电站开发流程（长图） | 无 | 含第三方水印"浙大光伏牟峻臣 v:nananko" |
 | 9 | 彩钢瓦 0.5MWp.jpg | 009-color-steel-0.5MWp.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/009-color-steel-0.5MWp.jpg | 彩钢瓦屋顶 0.5MWp 航拍 | 无 |  |
 | 10 | 彩钢瓦 0.5MWp1.jpg | 010-color-steel-0.5MWp-2.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/010-color-steel-0.5MWp-2.jpg | 彩钢瓦屋顶 0.5MWp 航拍（角度二） | 无 |  |
 | 11 | 彩钢瓦 1.1MWp.jpg | 011-color-steel-1.1MWp.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/011-color-steel-1.1MWp.jpg | 彩钢瓦屋顶 1.1MWp 航拍 | 无 |  |
@@ -26,10 +25,6 @@
 | 20 | 水泥顶 380kWp.jpg | 020-concrete-roof-380kWp-2.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/020-concrete-roof-380kWp-2.jpg | 水泥屋顶 380kWp 高支架阵列 | 无 |  |
 | 21 | 水泥顶 380kwp1.jpg | 021-concrete-roof-380kWp-3.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/021-concrete-roof-380kWp-3.jpg | 水泥屋顶 380kWp 电站（角度二） | 远处楼顶企业招牌 |  |
 | 22 | 水泥顶 500kWp.jpg | 022-concrete-roof-500kWp.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/022-concrete-roof-500kWp.jpg | 水泥屋顶 500kWp 航拍 | 楼顶企业名称招牌（ChinaSound 字样） |  |
-| 23 | 火电排放.png | 023-thermal-power-emissions.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/023-thermal-power-emissions.jpg | 火电厂冷却塔排放 | 无 | 疑似网络图库图（低分辨率） |
-| 24 | 灰尘.jpeg | 024-dusty-panels.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/024-dusty-panels.jpg | 光伏板表面积灰 | 无 | 含 Veer 图库水印 |
-| 25 | 灰尘光伏板.png | 025-dusty-panels-2.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/025-dusty-panels-2.jpg | 光伏板表面积灰（二） | 无 | 疑似网络图库图（低分辨率） |
-| 26 | 灰尘光伏板2.jpeg | 026-dusty-panels-3.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/026-dusty-panels-3.jpg | 光伏板积灰特写 | 无 | 含 Veer 图库水印 |
 | 27 | 组件边框积灰 1.jpg | 027-module-frame-dust-1.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/027-module-frame-dust-1.jpg | 组件边框积灰特写（一） | 无 |  |
 | 28 | 组件边框积灰 2.jpg | 028-module-frame-dust-2.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/028-module-frame-dust-2.jpg | 组件边框积灰特写（二） | 无 |  |
 | 29 | 组件边框积灰.jpg | 029-module-frame-dust.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/029-module-frame-dust.jpg | 组件边框积灰特写 | 无 |  |
@@ -47,5 +42,3 @@
 | 41 | 马鞍板小电站.jpeg | 041-saddle-roof-small-plant.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/041-saddle-roof-small-plant.jpg | 马鞍板屋顶小型电站航拍 | 无 |  |
 | 42 | 马鞍板平铺.jpeg | 042-saddle-roof-flat-laid.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/042-saddle-roof-flat-laid.jpg | 马鞍板屋顶平铺安装航拍 | 无 |  |
 | 43 | 马鞍板支架.jpeg | 043-saddle-roof-mounting.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/043-saddle-roof-mounting.jpg | 马鞍板屋顶支架（厂房外观） | 无 |  |
-| 44 | 马鞍板支架安装.jpg | 044-saddle-roof-mount-install.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/044-saddle-roof-mount-install.jpg | 马鞍板支架安装细节 | 无 | 视频/App 截图（左上角有锁图标） |
-| 45 | 鸟粪.jpeg | 045-bird-droppings.jpg | https://raw.githubusercontent.com/huayan001/pv-images/main/library/045-bird-droppings.jpg | 光伏板鸟粪污染 | 无 | 含 Veer 图库水印 |
